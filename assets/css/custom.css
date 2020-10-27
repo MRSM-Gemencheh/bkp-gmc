@@ -1,0 +1,16 @@
+#homeLogo {
+   height: 60px;
+   line-height: 80px;
+   justify-self: center;
+   align-self: center;
+   margin-bottom: 2px;
+   margin-right: 10px;
+}
+
+.contact-content {
+    line-height: 46px;
+}
+
+#location-contact {
+    line-height: 15.33px;
+}
