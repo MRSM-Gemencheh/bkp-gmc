@@ -14,3 +14,8 @@
 #location-contact {
     line-height: 15.33px;
 }
+
+.big-image {
+    width: 100%;
+    height: auto;
+  }
