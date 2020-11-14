@@ -16,12 +16,18 @@
 }
 
 .big-image {
-    width: 100%;
+    width: 75%;
     height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
 .img-awoo {
     width: 100%;
     height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .text-awoo {
