@@ -348,7 +348,7 @@ a.readmore_bt {
 .loader_bg {
 	position: fixed;
 	z-index: 9999999;
-	background: #fff;
+	background: rgb(25, 31, 38);
 	width: 100%;
 	height: 100%;
 }
@@ -365,7 +365,7 @@ a.readmore_bt {
 }
 
 .loader img {
-	width: 280px;
+	width: auto;
 }
 
 
@@ -2291,10 +2291,10 @@ ul.contant_icon li img {
 }
 
 .copyright {
-	background-color: #fff;
+	background-color: #2600ff;
 	padding: 20px 0px;
 	;
-	margin-top: 55px;
+	margin-top: 0px;
 }
 
 .copyright p {

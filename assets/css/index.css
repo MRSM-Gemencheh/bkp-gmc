@@ -1663,3 +1663,22 @@ portfolio
     margin-bottom: 0px;
   }
 }
+
+
+.copyright {
+	background-color: #2600ff;
+	padding: 20px 0px;
+	;
+	margin-bottom: 20px;
+}
+
+.copyright p {
+	color: #000;
+	font-size: 18px;
+	line-height: 22px;
+	text-align: center;
+}
+
+.copyright a:hover {
+	color: #0fc690
+}
