@@ -1,5 +1,3 @@
-# MRSM GEMENCHEH
-
 Project started and maintained by StreamFroster (MagusWyvern)
 
 To contribute:
@@ -10,4 +8,8 @@ To contribute:
 
 Changes made will have to pass through checks before being uploaded to Origin.
 
+To Do:
 
+1. PHP Form Code
+2. BKP section of the whole website
+3. Pictures and descriptions for 'Latar Belakang' Page
