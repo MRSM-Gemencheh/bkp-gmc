@@ -1,11 +1,26 @@
-Project started and maintained by StreamFroster (MagusWyvern)
+# Website BKP MJSC Gemencheh
 
-To contribute you have to email me your application including your name and matrix number at (maguswyvern@gmail.com)
+Project started and maintained by MagusWyvern.
 
-Changes made will have to pass through checks before being uploaded to Origin.
+Updates every 2 days or so.
 
-To Do:
+Submit an issue for maguswyvern.github.io at maguswyvern@gmail.com
 
-1. PHP Form Code
-2. BKP section of the whole website
-3. Pictures and descriptions for 'Latar Belakang' Page
+# Status
+
+Changing UI into a more React environment
+
+
+elixia - https://www.instagram.com/elixia_gmc/
+hafizul mukminin - https://www.instagram.com/hm.gmc/
+sapphire - https://www.instagram.com/sapphire_gmc/
+daizok - https://www.instagram.com/daikazoku_gmc/
+orion - https://www.instagram.com/orion_gmc/
+
+emc - https://www.instagram.com/emc.gmc/
+bwp - https://www.instagram.com/bwpgmcua/
+alk - https://www.instagram.com/gen1lfa/
+ldp - https://www.instagram.com/ldpgmc_/
+prs - https://www.instagram.com/prsgmc/
+badar - https://www.instagram.com/badar_moncheh/
+ppsp - https://www.instagram.com/official_ppsp/
