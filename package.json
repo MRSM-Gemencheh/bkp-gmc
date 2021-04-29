@@ -1,0 +1,13 @@
+{
+    "name": "mrsm-gemencheh",
+    "version": "0.2.12",
+    "description": "The extended version of the MRSM Gemencheh website.",
+    "main": "index.html",
+    "license": "MIT",
+    "author": "MagusWyvern",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/MRSM-Gemencheh/MRSM-Gemencheh.github.io"
+    },
+    "homepage": "https://mrsm-gemencheh.github.io/"
+}
