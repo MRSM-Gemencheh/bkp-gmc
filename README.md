@@ -10,6 +10,14 @@ Submit an issue for maguswyvern.github.io at maguswyvern@gmail.com
 
 Changing UI into a more React environment
 
+# To Contribute
+
+1. Request content to be added from MagusWyvern
+2. Implement the content in the website
+3. Submit a pull request and wait for code reviews
+4. Merging of pull request will be done by code owners
+
+# Social Media Links
 
 elixia - https://www.instagram.com/elixia_gmc/
 
