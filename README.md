@@ -6,41 +6,40 @@ Updates every 2 days or so.
 
 Submit an issue for maguswyvern.github.io at maguswyvern@gmail.com
 
-# Status
+### Status
 
-Changing UI into a more React environment
+Refactoring everything, making it a single-page web app
 
-# To Contribute
+### To Contribute
 
 1. Request content to be added from MagusWyvern
 2. Implement the content in the website
 3. Submit a pull request and wait for code reviews
 4. Merging of pull request will be done by code owners
 
-# Social Media Links
+### Social Media Links
 
-elixia - https://www.instagram.com/elixia_gmc/
+Elixia - https://www.instagram.com/elixia_gmc/
 
-hafizul mukminin - https://www.instagram.com/hm.gmc/
+Hafizul Mukminin - https://www.instagram.com/hm.gmc/
 
-sapphire - https://www.instagram.com/sapphire_gmc/
+Sapphire - https://www.instagram.com/sapphire_gmc/
 
-daizok - https://www.instagram.com/daikazoku_gmc/
+Daizok - https://www.instagram.com/daikazoku_gmc/
 
-orion - https://www.instagram.com/orion_gmc/
+Orion - https://www.instagram.com/orion_gmc/
 
 
-emc - https://www.instagram.com/emc.gmc/
+EMC - https://www.instagram.com/emc.gmc/
 
-bwp - https://www.instagram.com/bwpgmcua/
+BWP - https://www.instagram.com/bwpgmcua/
 
-alk - https://www.instagram.com/gen1lfa/
+ALK - https://www.instagram.com/gen1lfa/
 
-ldp - https://www.instagram.com/ldpgmc_/
+LDP - https://www.instagram.com/ldpgmc_/
 
-prs - https://www.instagram.com/prsgmc/
+PRS - https://www.instagram.com/prsgmc/
 
-badar - https://www.instagram.com/badar_moncheh/
+BADAR - https://www.instagram.com/badar_moncheh/
 
-ppsp - https://www.instagram.com/official_ppsp/
-
+PPSP - https://www.instagram.com/official_ppsp/
