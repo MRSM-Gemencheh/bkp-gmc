@@ -1,9 +1,9 @@
 {
     "name": "mrsm-gemencheh",
     "version": "0.2.12",
-    "description": "The extended version of the MRSM Gemencheh website.",
+    "description": "The BKP of the MRSM Gemencheh website.",
     "main": "index.html",
-    "license": "MIT",
+    "license": "Apache 2.0",
     "author": "MagusWyvern",
     "repository": {
         "type": "git",
