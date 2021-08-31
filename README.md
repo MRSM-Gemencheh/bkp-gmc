@@ -2,9 +2,9 @@
 
 Project started and maintained by MagusWyvern.
 
-Updates every 2 days or so.
+The purpose of this project is to allow students to view past activities and events in full, the website serves as and archive for future students to look back on.
 
-Submit an issue for maguswyvern.github.io at maguswyvern@gmail.com
+Submit an issue if you spot any typos, or want to see something added!
 
 ### Status
 
