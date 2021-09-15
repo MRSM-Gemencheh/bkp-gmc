@@ -14,6 +14,10 @@
 
   <link rel="stylesheet" href="css/addon.css">
 
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+    crossorigin="" />
+
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
     integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
@@ -21,6 +25,12 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.3/css/bulma.min.css"
     integrity="sha512-IgmDkwzs96t4SrChW29No3NXBIBv8baW490zk5aXvhCD8vuZM3yUSkbyTBcXohkySecyzIrUwiF/qV0cuPcL3Q=="
     crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+  <!-- Make sure you put this AFTER Leaflet's CSS -->
+  <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+    integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+    crossorigin=""></script>
+
 
   <link rel="manifest" href="manifest.json">
 
@@ -30,16 +40,23 @@
     }
   </script>
 
-  <script defer src="/index.js"></script>
+
 
   <style>
     i {
       padding: 4px;
     }
+
+    #mapid {
+      width: 180px;
+      height: auto;
+    }
   </style>
 </head>
 
 <body>
+
+
   <section class="hero is-primary is-medium">
     <!-- Hero head: will stick at the top -->
     <div class="hero-head">
@@ -160,11 +177,29 @@
             </button>
           </div>
         </div>
+
       </div>
 
     </div>
   </div>
 
+
+
+
+
+
+  <div class="section">
+    <div class="content">
+      <h1>Lokasi MRSM Gemencheh</h1>
+
+      <div class="box">
+
+        <div id="mapid" style="width: auto; height: 400px;"></div>
+
+
+      </div>
+    </div>
+  </div>
 
   <!-- <div class="section">
     <div class="content">
@@ -232,6 +267,8 @@
       </p>
     </div>
   </footer>
+
+  <script defer src="/index.js"></script>
 </body>
 
 </html>
